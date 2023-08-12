@@ -1,6 +1,6 @@
 # Gmail Processing Repo
 
-This repo contains two apps designed to process and interact with emails from "scholaralerts-noreply@google.com". One application is a Flask-based web interface that allows users to search through the content of these emails. The other is a standalone script that downloads the emails and saves them as individual HTML files.
+This repo contains apps designed to process and interact with emails from "scholaralerts-noreply@google.com". One application is a Flask-based web interface that allows users to search through the content of these emails. The other is a standalone script that downloads the emails and saves them as individual HTML files.
 
 ## Applications:
 
